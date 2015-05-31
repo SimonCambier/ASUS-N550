@@ -19,13 +19,13 @@ namespace NombreMystèreCorrection
             {
                 if (nombrealeatoireconverti < randome)
                 {
-                    Console.WriteLine("votre nombre est trop petit");
+                    Console.WriteLine("votre nombre est trop petit \nentrez à nouveau un nombre :");
                     nombrealeatoire = Console.ReadLine();
                     nombrealeatoireconverti = Convert.ToInt32(nombrealeatoire);
                 }
                 else if (nombrealeatoireconverti > randome)
                 {
-                    Console.WriteLine("votre nombre est trop grand ");
+                    Console.WriteLine("votre nombre est trop grand \nentrez à nouveau un nombre :");
                     nombrealeatoire = Console.ReadLine();
                     nombrealeatoireconverti = Convert.ToInt32(nombrealeatoire);
                 }
