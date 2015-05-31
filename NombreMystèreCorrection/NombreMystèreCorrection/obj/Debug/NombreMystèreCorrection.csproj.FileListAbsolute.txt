@@ -1,1 +1,6 @@
 C:\Users\ASUS N550\Documents\GitHub\ASUS-N550\NombreMystèreCorrection\NombreMystèreCorrection\bin\Debug\NombreMystèreCorrection.exe.config
+C:\Users\ASUS N550\Documents\GitHub\ASUS-N550\NombreMystèreCorrection\NombreMystèreCorrection\bin\Debug\NombreMystèreCorrection.exe
+C:\Users\ASUS N550\Documents\GitHub\ASUS-N550\NombreMystèreCorrection\NombreMystèreCorrection\bin\Debug\NombreMystèreCorrection.pdb
+C:\Users\ASUS N550\Documents\GitHub\ASUS-N550\NombreMystèreCorrection\NombreMystèreCorrection\obj\Debug\NombreMystèreCorrection.csprojResolveAssemblyReference.cache
+C:\Users\ASUS N550\Documents\GitHub\ASUS-N550\NombreMystèreCorrection\NombreMystèreCorrection\obj\Debug\NombreMystèreCorrection.exe
+C:\Users\ASUS N550\Documents\GitHub\ASUS-N550\NombreMystèreCorrection\NombreMystèreCorrection\obj\Debug\NombreMystèreCorrection.pdb
